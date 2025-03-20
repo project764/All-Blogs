@@ -33,6 +33,7 @@ const sendmail = async (req, res) => {
         if (data) {
             data.otp = code;
             data.mail = mail;
+            console.log(code)
             await data.save();
         }
         else {
