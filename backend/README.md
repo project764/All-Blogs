@@ -54,4 +54,4 @@ where <br/>
 - EMAIL_ID=id for which PASS is generated
 - PORT=5002
 - REACT_APP_BACKEND_URL=http://localhost:5002 (backend url)
-- REACT_APP_FRONTEND_URL=http://localhost:3000 (frontend url)
+- REACT_APP_FRONTEND_URL=http://localhost:3000 (frontend url).
